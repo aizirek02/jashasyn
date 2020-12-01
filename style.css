@@ -1,0 +1,16 @@
+.myMenu {
+    font-size: 30px;
+}
+
+.myBorder {
+    border-style: solid;
+    border-color: #3b7856;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.myTextCenter {
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+}
